@@ -3,6 +3,8 @@
         }  
         
         body {
+            display: block;
+            margin:8px;
             background-color: grey;
         }
         p{
